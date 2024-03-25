@@ -1,4 +1,8 @@
 Reference: https://inpyjama.com/day-10-heap-vs-stack/
+
+[]  Foreign Function Interface (FFI).
+[]  Rust's central package repository, crates.io (think of it like Rust's version of PyPI)
+
 create file name:
 	cargo new program_name
 

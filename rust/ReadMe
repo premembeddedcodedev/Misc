@@ -1,0 +1,12 @@
+
+create file name:
+	cargo new program_name
+
+build the repo:
+	cargo build
+
+run the repo:
+	cargo run
+
+clean the build:
+	cargo clean
